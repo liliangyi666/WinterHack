@@ -19,7 +19,7 @@ The goal is to promote **inclusive communication** and **dialect culture preserv
 ### 🧩 Tech Stack  
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | WeChat Mini Program, JavaScript, HTML/CSS |
+| **Frontend** | WeChat Mini Program, JavaScript, WXML/WXSS |
 | **Backend** | Tencent Cloud Serverless, Python (Flask) |
 | **AI Models** | iFlytek Spark AI (ASR + NLP), Tencent Cloud Speech |
 | **Design Tools** | Blender, Adobe Audition, Figma |
