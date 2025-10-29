@@ -44,5 +44,4 @@ The goal is to promote **inclusive communication** and **dialect culture preserv
 ### 👨‍💻 Author  
 **Liangyi Li**  
 Beijing University of Posts and Telecommunications (Queen Mary School of Hainan)  
-📧 Contact: [your email here]  
-🌐 GitHub: [https://github.com/liliangyi666](https://github.com/liliangyi666)
+📧 Contact: [lly13611123780@163.com]  
